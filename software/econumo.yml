@@ -1,0 +1,14 @@
+name: Econumo
+website_url: https://econumo.com
+source_code_url: https://github.com/econumo/econumo-ce
+description: "Econumo (eh-KOH-noo-mo) is an open-source application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets."
+licenses:
+  - AGPL-3.0
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Money, Budgeting & Management
+depends_3rdparty: false
+demo_url: "https://demo.econumo.com"
